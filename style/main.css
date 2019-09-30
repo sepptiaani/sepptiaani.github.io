@@ -1,0 +1,52 @@
+    
+    body {
+        background-color: rgb(242, 255, 127)
+    }
+
+    /*style untuk heading - BEGIN */
+    h1 {
+        color: rgba(43, 189, 226, 0.89);
+        font-family: 'Franklin Gothic medium', 'Arial Narrow', Arial, sans-serif,
+     
+     
+    }
+
+    h2 { 
+        color: rgb(165, 42, 99);
+    }
+
+    /*style untuk heading -END */
+
+     /*style untuk heading -BEGIN */
+     a:link {
+         color: rgb(249, 205, 255);
+
+     }
+     a:hover {
+         color: rgb(255, 174, 0);
+
+     }
+     /*style untuk heading -END */
+     .cardhone {
+         background-color: rgb(0, 102, 255);
+         width: 30%;
+         height: 250px
+         
+     }
+
+.container {
+    width: 90%;
+    margin: 0px auto;
+    margin-bottom: 12px;
+    background-color: rgb(245, 245, 245);
+}
+.center {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    
+}
+
+
